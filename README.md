@@ -9,3 +9,5 @@
 https://www.meetup.com/London-JavaScript-Community/(https://www.meetup.com/London-JavaScript-Community/)
 
 https://www.meetup.com/js-monthly/ (https://www.meetup.com/js-monthly/)
+
+https://www.meetup.com/halfstack/ (https://www.meetup.com/halfstack/)
